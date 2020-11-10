@@ -4,7 +4,7 @@ Seja bem-vindo a nossa área de voo. Este é um espaço público, mantido com co
 
 ## Regra 1
 
-Lorem ipsum 
+O piloto deve seguir todas as regras contidas na RBAC103 da ANAC, que pode ser consultada [clicando aqui](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103/@@display-file/arquivo_norma/RBAC103_EMD00%20-%20Retificado.pdf).
 
 ## Regra 2
 
@@ -12,7 +12,7 @@ Lorem ipsum
 
 ## Regra 3
 
-Lorem ipsum 
+É terminantemente proi
 
 ### Markdown
 
