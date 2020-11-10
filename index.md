@@ -2,6 +2,12 @@
 
 Seja bem-vindo a nossa área de voo. Este é um espaço público, mas mantido com contribuições financeiras dos próprios pilotos. Portanto, você é nosso convidado para voar conosco e, também, para contribuir financeiramente para a manutenção da nossa área.
 
+```markdown
+
+Última atualização em 09.11.2020
+
+```
+
 # Da obrigatoriedade das regras de conduta
 
 A nossa área conta com total apoio da Prefeitura de Itanhaém e da Guarda Municipal para a fiscalização das suas regras de conduta.
