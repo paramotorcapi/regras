@@ -1,6 +1,6 @@
 # Seja bem-vindo!
 
-Seja bem-vindo a nossa área de voo. Este é um espaço público, mantido com contribuições financeiras dos próprios pilotos. Você é nosso convidado para voar conosco e, também, para contribuir financeiramente para a manutenção da nossa área de voo.
+Seja bem-vindo a nossa área de voo. Este é um espaço público, mas mantido com contribuições financeiras dos próprios pilotos. Portanto, você é nosso convidado para voar conosco e, também, para contribuir financeiramente para a manutenção da nossa área.
 
 ## Regra 1
 
@@ -14,22 +14,4 @@ Se você desejar voar baixo ou fazer rasantes, voe sobre a água, devidamente af
 
 Se quiser um espaço deserto, basta decolar e voar em direção leste. Em apenas 10 minutos de voo você estará sobre uma área com faixa de areia deserta, onde você pode voar sem incomodar e sem ser incomodado. 
 
-## Regra 3
-
-É terminantemente proi
-
-### Markdown
-
-Importante:
-
-```markdown
-Essa regra é muito importante
-
-Observar o seguinte procedimento
-
-1. Regra
-2. Outra regra
-3. Outra regra
-
-```
 
