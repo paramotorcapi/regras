@@ -20,7 +20,7 @@ O piloto deve seguir todas as regras contidas na RBAC103 da ANAC, que pode ser c
 
 ## Regra 2
 
-**É proibido ligar o motor com hélice no chão. **
+**É proibido ligar o motor com hélice no chão**.
 
 Motor com hélice somente pode ser dada a partida nos **cavaletes ou nas costas do piloto**. 
 
