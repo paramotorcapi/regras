@@ -8,7 +8,11 @@ O piloto deve seguir todas as regras contidas na RBAC103 da ANAC, que pode ser c
 
 ## Regra 2
 
-Lorem ipsum 
+É terminantemente proibido o voo sobre os banhistas. 
+
+Se você desejar voar baixo ou fazer rasantes, voe sobre a água, devidamente afastado da faixa de areia e de todos os banhistas. A nossa área dispensa e, na verdade, **condena** exibicionismos. Você não vai ser aplaudido, e sim vaiado, por suas manobras em cima da área, e será convidado a se retirar.
+
+Se quiser um espaço deserto, basta decolar e voar em direção leste. Em apenas 10 minutos de voo você estará sobre uma área com faixa de areia deserta, onde você pode voar sem incomodar e sem ser incomodado. 
 
 ## Regra 3
 
