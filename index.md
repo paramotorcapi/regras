@@ -28,7 +28,7 @@ Não há exceções, e esta não é uma _opção_ do piloto. O descumprimento de
 
 ## Regra 3
 
-**É proibido o voo baixo sobre os banhistas e rasantes sobre a cabeça dos pilotos da área. **
+**É proibido o voo baixo sobre os banhistas e rasantes sobre a cabeça dos pilotos da área**.
 
 Se você desejar voar baixo ou fazer rasantes, voe sobre a água, devidamente afastado da faixa de areia e de todos os banhistas.
 
