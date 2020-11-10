@@ -20,13 +20,15 @@ O piloto deve seguir todas as regras contidas na RBAC103 da ANAC, que pode ser c
 
 ## Regra 2
 
-Motor com hélice somente pode ser dada a partida nos **cavaletes ou nas costas do piloto**. É proibido ligar o motor com hélice no chão. 
+**É proibido ligar o motor com hélice no chão. **
 
-Não há exceções e esta não é uma _opção_ do piloto. O descumprimento desta regra, ainda que uma única vez, coloca **você, os demais pilotos e os visitantes** em risco.
+Motor com hélice somente pode ser dada a partida nos **cavaletes ou nas costas do piloto**. 
+
+Não há exceções, e esta não é uma _opção_ do piloto. O descumprimento desta regra, ainda que uma única vez, coloca **você, os demais pilotos e os visitantes** em risco.
 
 ## Regra 3
 
-É proibido o voo baixo sobre os banhistas e rasantes sobre a cabeça dos pilotos da área. 
+**É proibido o voo baixo sobre os banhistas e rasantes sobre a cabeça dos pilotos da área. **
 
 Se você desejar voar baixo ou fazer rasantes, voe sobre a água, devidamente afastado da faixa de areia e de todos os banhistas.
 
